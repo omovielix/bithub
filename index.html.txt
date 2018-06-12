@@ -1,0 +1,6 @@
+More about git
+ git init
+git status
+git add readme.txt  (git add . )git
+git commit –m “created a readme file” (modify and create)
+git push origin master
